@@ -4,6 +4,7 @@
           1.Removed duplicates
           2.standardized the data (such splitting Player column into seperate columns
           3.Removed unwanted colummns
+          
 #Step 2
   Exploratory Data anlysis using pandas,numpy,matplot
   Did Some plotting in pandas
